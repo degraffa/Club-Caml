@@ -1,2 +1,2 @@
 # Club-Caml
-Online game where you can talk and walk with your friends
+You know how it be

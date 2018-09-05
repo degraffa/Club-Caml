@@ -1,0 +1,10 @@
+B _build
+PKG oUnit
+PKG lwt
+PKG js_of_ocaml
+PKG cohttp
+PKG cohttp-lwt-unix
+PKG yojson
+PKG unix
+PKG csv
+PKG threads
